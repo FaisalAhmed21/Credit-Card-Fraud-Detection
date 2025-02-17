@@ -19,6 +19,6 @@ The dataset used for this project is uploaded in the [Releases](https://github.c
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Credit-Card-Fraud-Detection.git
+   git clone https://github.com/FaisalAhmed21/Credit-Card-Fraud-Detection.git
    cd Credit-Card-Fraud-Detection
 
