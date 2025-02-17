@@ -12,7 +12,7 @@ The dataset used for this project is uploaded in the [Releases](https://github.c
 
 ### Dataset Information:
 - **Label Encoding:** 
-  - `0`: Genuine transaction
+  - `0`: Legit transaction
   - `1`: Fraudulent transaction
 
 
